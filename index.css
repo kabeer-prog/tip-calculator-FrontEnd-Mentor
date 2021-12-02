@@ -32,7 +32,7 @@ input{
 .right{
     background-color: hsl(183, 100%, 15%);
     height: 45vh;
-    margin:25px;
+    margin:85px 30px;
     border-radius: 10px;
 }
 .reset{
@@ -49,5 +49,8 @@ button{
     .container{
         display: flex;
         flex-direction: column;
+    }
+    .col{
+        width: 80%;
     }
 }
