@@ -35,6 +35,9 @@ input{
     margin:25px;
     border-radius: 10px;
 }
+.reset{
+    background-color:hsl(172, 67%, 45%)
+}
 .calc-row{
     margin: 10px;
 }
