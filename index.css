@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: teal;
+    background-color: hsl(172, 67%, 45%);
 }
 .container{
     display: flex;
@@ -30,7 +30,7 @@ input{
     padding: 20px;
 }
 .right{
-    background-color: blue;
+    background-color: hsl(183, 100%, 15%);
     height: 45vh;
     margin:25px;
     border-radius: 10px;
