@@ -11,7 +11,7 @@ body{
     background-color: #fff;
     margin: 100px auto;
     width: 70%;
-    height: 30vw;
+    min-height: 70vh;
     border-radius: 10px;
 }
 .output{
@@ -20,6 +20,7 @@ body{
     background-color: gray;
     height: 25px;
     padding: 0 10px;
+    margin-bottom: 50px;
 }
 input{
     width: 100%;
@@ -30,7 +31,7 @@ input{
 }
 .right{
     background-color: blue;
-    height: 25vw;
+    height: 45vh;
     margin:25px;
     border-radius: 10px;
 }
@@ -40,4 +41,10 @@ input{
 button{
     margin: 10px;
     padding: .5em 2em;
+}
+@media (max-width: 720px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
 }
