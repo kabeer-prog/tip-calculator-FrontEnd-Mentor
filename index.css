@@ -50,6 +50,10 @@ body{
     min-height: 70vh;
     border-radius: 10px;
 }
+header{
+    display:block;
+    justify-self: center;
+}
 .output{
     display: flex;
     justify-content: space-between;
