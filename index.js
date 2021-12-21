@@ -10,11 +10,14 @@ people.addEventListener('keyup',evaluate)
 tipCustom.addEventListener('keyup',evaluate)
 reset.addEventListener('click',resetForm, true)
 for (let i = 0; i < 5; i++){
+
+    // for loop
+    
     tipRadio[i].addEventListener('click',evaluate)
 }
 
 function evaluate(){
-
+// evaluate
 }
 function activeBtnReset(){
     if (bill.value !== "" || bill.value > 0 || people.value !== "" || poeple.value > 0  ){
