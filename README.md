@@ -60,6 +60,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
+
 I used Netlify
 - [Netlify](https://www.netlify.com/)
 
@@ -73,7 +74,7 @@ The template provides a guide for what to add. A custom `README` will help you e
 Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
 
 
-## Submitting your solution
+## Submitting the solution
 
 Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
 
