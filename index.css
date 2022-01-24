@@ -42,6 +42,7 @@ body{
     background-color: hsl(172, 67%, 45%);
     font-family: 'Space Mono', monospace;
 }
+
 .container{
     display: flex;
     background-color: #fff;
@@ -74,6 +75,9 @@ input{
     height: 45vh;
     margin:85px 30px;
     border-radius: 10px;
+}
+header{
+    margin: 80px 700px;;
 }
 .reset{
     background-color:hsl(172, 67%, 45%)
