@@ -2,23 +2,26 @@
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
+
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+**For this challenge, I used basic understanding of HTML, CSS and JavaScript.**
+
+
 
 ## The challenge
 Knowledge of eventlisteners on the buttons. When a button is clicked, an action should happen
 
 
+The challenge is to build out this tip calculator app and get it looking as close to the design as possible.
 
 
-Your challenge is to build out this tip calculator app and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 Your users should be able to:
 
@@ -39,6 +42,7 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
+
 ## Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
@@ -50,12 +54,17 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
+
+
 ## Deploying your project
+
 
 I used Netlify
 - [Netlify](https://www.netlify.com/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+
+
 
 ## Create a custom `README.md`
 
@@ -64,11 +73,15 @@ The template provides a guide for what to add. A custom `README` will help you e
 
 Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
 
-## Submitting your solution
+
+## Submitting the solution
 
 Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+
+
+
 
 ## Sharing your solution
 
