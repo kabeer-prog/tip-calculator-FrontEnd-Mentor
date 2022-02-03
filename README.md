@@ -7,9 +7,6 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **For this challenge, I used basic understanding of HTML, CSS and JavaScript.**
 
@@ -19,7 +16,8 @@ Thanks for checking out this front-end coding challenge.
 Knowledge of eventlisteners on the buttons. When a button is clicked, an action should happen
 
 
-The challenge is to build out this tip calculator app and get it looking as close to the design as possible.
+The challenge is to build out this tip calculator app and get it looking as close to the design as possible while also
+catering for the responsiveness on various screens sizes
 
 
 
