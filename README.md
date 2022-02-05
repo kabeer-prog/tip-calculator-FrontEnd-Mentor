@@ -7,9 +7,6 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **For this challenge, I used basic understanding of HTML, CSS and JavaScript.**
 
@@ -19,7 +16,8 @@ Thanks for checking out this front-end coding challenge.
 Knowledge of eventlisteners on the buttons. When a button is clicked, an action should happen
 
 
-The challenge is to build out this tip calculator app and get it looking as close to the design as possible.
+The challenge is to build out this tip calculator app and get it looking as close to the design as possible while also
+catering for the responsiveness on various screens sizes
 
 
 
@@ -74,11 +72,14 @@ The template provides a guide for what to add. A custom `README` will help you e
 Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
 
 
+
+
 ## Submitting the solution
 
 Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+
 
 
 
@@ -95,11 +96,5 @@ There are multiple places you can share your solution:
 We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
