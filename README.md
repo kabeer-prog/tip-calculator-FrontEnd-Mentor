@@ -13,7 +13,7 @@
 
 
 ## The challenge
-Knowledge of eventlisteners on the buttons. When a button is clicked, an action should happen
+Knowledge of eventlisteners on the buttons. When a button is clicked, an action should happen. Calculation to be done when the click is done
 
 
 The challenge is to build out this tip calculator app and get it looking as close to the design as possible while also
